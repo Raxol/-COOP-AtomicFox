@@ -144,7 +144,7 @@ class Mission
 				{
 					position[]={3597.0461,153.0323,8551.792};
 					azimut=198.123;
-					offsetY=17;
+					offsetY=18;
 					id=4;
 					side="EAST";
 					vehicle="O_sniper_F";
@@ -156,7 +156,7 @@ class Mission
 				{
 					position[]={3596.5229,153.04124,8551.8506};
 					azimut=198.123;
-					offsetY=17;
+					offsetY=18;
 					id=5;
 					side="EAST";
 					vehicle="O_spotter_F";
@@ -175,7 +175,7 @@ class Mission
 				{
 					position[]={5522.4976,81.933624,8953.6768};
 					azimut=341.13101;
-					offsetY=17;
+					offsetY=18;
 					id=6;
 					side="EAST";
 					vehicle="O_sniper_F";
@@ -187,7 +187,7 @@ class Mission
 				{
 					position[]={5523.1865,81.97525,8953.9414};
 					azimut=341.13101;
-					offsetY=17;
+					offsetY=18;
 					id=7;
 					side="EAST";
 					vehicle="O_spotter_F";
@@ -352,7 +352,7 @@ class Mission
 				{
 					position[]={8383.7842,178.8967,7611.3223};
 					azimut=517.76202;
-					offsetY=17;
+					offsetY=18;
 					id=16;
 					side="EAST";
 					vehicle="O_sniper_F";
@@ -364,7 +364,7 @@ class Mission
 				{
 					position[]={8383.3408,178.89157,7611.0352};
 					azimut=517.76202;
-					offsetY=17;
+					offsetY=18;
 					id=17;
 					side="EAST";
 					vehicle="O_spotter_F";
@@ -1521,8 +1521,8 @@ class Mission
 				class Item0
 				{
 					position[]={4660.0078,61.863873,11960.438};
-					azimut=518.69727;
-					offsetY=17;
+					azimut=518.69702;
+					offsetY=18;
 					id=72;
 					side="EAST";
 					vehicle="O_sniper_F";
@@ -1533,8 +1533,8 @@ class Mission
 				class Item1
 				{
 					position[]={4659.3159,61.836285,11960.132};
-					azimut=518.69727;
-					offsetY=17;
+					azimut=518.69702;
+					offsetY=18;
 					id=73;
 					side="EAST";
 					vehicle="O_spotter_F";
@@ -1552,8 +1552,8 @@ class Mission
 				class Item0
 				{
 					position[]={4720.6396,62.782745,11991.06};
-					azimut=411.64484;
-					offsetY=17;
+					azimut=411.64499;
+					offsetY=18;
 					id=74;
 					side="EAST";
 					vehicle="O_sniper_F";
@@ -1564,8 +1564,8 @@ class Mission
 				class Item1
 				{
 					position[]={4721.1216,62.787811,11990.495};
-					azimut=411.64484;
-					offsetY=17;
+					azimut=411.64499;
+					offsetY=18;
 					id=75;
 					side="EAST";
 					vehicle="O_spotter_F";
@@ -1583,8 +1583,8 @@ class Mission
 				class Item0
 				{
 					position[]={4772.8936,64.494621,11811.563};
-					azimut=503.04868;
-					offsetY=17;
+					azimut=503.04901;
+					offsetY=18;
 					id=76;
 					side="EAST";
 					vehicle="O_sniper_F";
@@ -1595,8 +1595,8 @@ class Mission
 				class Item1
 				{
 					position[]={4772.3086,64.485634,11811.066};
-					azimut=503.04868;
-					offsetY=17;
+					azimut=503.04901;
+					offsetY=18;
 					id=77;
 					side="EAST";
 					vehicle="O_spotter_F";
@@ -1614,8 +1614,8 @@ class Mission
 				class Item0
 				{
 					position[]={4705.1313,63.094101,11801.764};
-					azimut=591.9895;
-					offsetY=17;
+					azimut=591.98999;
+					offsetY=18;
 					id=78;
 					side="EAST";
 					vehicle="O_sniper_F";
@@ -1626,8 +1626,8 @@ class Mission
 				class Item1
 				{
 					position[]={4704.6567,63.079182,11802.322};
-					azimut=591.9895;
-					offsetY=17;
+					azimut=591.98999;
+					offsetY=18;
 					id=79;
 					side="EAST";
 					vehicle="O_spotter_F";
@@ -1646,7 +1646,7 @@ class Mission
 				{
 					position[]={4697.3325,67.743553,11704.12};
 					azimut=341.13101;
-					offsetY=25;
+					offsetY=30;
 					id=80;
 					side="EAST";
 					vehicle="O_sniper_F";
@@ -1658,7 +1658,7 @@ class Mission
 				{
 					position[]={4698.0215,67.727631,11704.385};
 					azimut=341.13101;
-					offsetY=25;
+					offsetY=30;
 					id=81;
 					side="EAST";
 					vehicle="O_spotter_F";

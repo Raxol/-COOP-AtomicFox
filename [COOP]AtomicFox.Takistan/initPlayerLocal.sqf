@@ -17,10 +17,8 @@ waitUntil {time > 0};
 // null = [this] execVM "UAV\SetUpUAVForLifeFeed.sqf"; 
 // will be able to send their camera feed to any player.
 // In this mission only BLUFOR units can use the uav life feed.
-if ( side player == west ) then
-{
-	player addAction["<t color='#1292E2'>UAV Menu</t>", "UAV\OpenUAVMenu.sqf"];			// Adds the UAV Menu to all players
-};
+
+player addAction["<t color='#1292E2'>UAV Menu</t>", "UAV\OpenUAVMenu.sqf"];			// Adds the UAV Menu to all players
 
 if ( hasInterface ) then
 {
