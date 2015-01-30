@@ -3,7 +3,7 @@
  *
  * Source: C:\Users\Linus Meng\Documents\Arma 3 - Other Profiles\extremgx\missions\[COOP]AtomicFox_HC_AA.Takistan\mission.sqm
  * File Version: 12 | Arma 3
- * Date: 26.01.2015 16:51
+ * Date: 28.01.2015 19:58
  */
 
 _west = createCenter west;				// BLUFOR (NATO)
@@ -102,7 +102,7 @@ _group_east_2 = createGroup _east;
 	// Begin of Unit _group_east_2_unit_1
 	if (true) then
 	{
-		_group_east_2_unit_1 = _group_east_2 createUnit ["O_sniper_F", [3597.0461, 8551.792, 17], [], 0, "CAN_COLLIDE"];
+		_group_east_2_unit_1 = _group_east_2 createUnit ["O_sniper_F", [3597.0461, 8551.792, 18], [], 0, "CAN_COLLIDE"];
 		_group_east_2_unit_1 setDir 198.123;
 		_group_east_2_unit_1 setUnitAbility 0.60000002;
 		_group_east_2_unit_1 setRank "CORPORAL";
@@ -112,7 +112,7 @@ _group_east_2 = createGroup _east;
 	// Begin of Unit _group_east_2_unit_2
 	if (true) then
 	{
-		_group_east_2_unit_2 = _group_east_2 createUnit ["O_spotter_F", [3596.5229, 8551.8506, 17], [], 0, "CAN_COLLIDE"];
+		_group_east_2_unit_2 = _group_east_2 createUnit ["O_spotter_F", [3596.5229, 8551.8506, 18], [], 0, "CAN_COLLIDE"];
 		_group_east_2_unit_2 setDir 198.123;
 		_group_east_2_unit_2 setUnitAbility 0.60000002;
 		_group_east_2_unit_2 setRank "CORPORAL";
@@ -125,7 +125,7 @@ _group_east_3 = createGroup _east;
 	// Begin of Unit _group_east_3_unit_1
 	if (true) then
 	{
-		_group_east_3_unit_1 = _group_east_3 createUnit ["O_sniper_F", [5522.4976, 8953.6768, 17], [], 0, "CAN_COLLIDE"];
+		_group_east_3_unit_1 = _group_east_3 createUnit ["O_sniper_F", [5522.4976, 8953.6768, 18], [], 0, "CAN_COLLIDE"];
 		_group_east_3_unit_1 setDir 341.13101;
 		_group_east_3_unit_1 setUnitAbility 0.60000002;
 		_group_east_3_unit_1 setRank "CORPORAL";
@@ -135,7 +135,7 @@ _group_east_3 = createGroup _east;
 	// Begin of Unit _group_east_3_unit_2
 	if (true) then
 	{
-		_group_east_3_unit_2 = _group_east_3 createUnit ["O_spotter_F", [5523.1865, 8953.9414, 17], [], 0, "CAN_COLLIDE"];
+		_group_east_3_unit_2 = _group_east_3 createUnit ["O_spotter_F", [5523.1865, 8953.9414, 18], [], 0, "CAN_COLLIDE"];
 		_group_east_3_unit_2 setDir 341.13101;
 		_group_east_3_unit_2 setUnitAbility 0.60000002;
 		_group_east_3_unit_2 setRank "CORPORAL";
@@ -286,7 +286,7 @@ _group_east_5 = createGroup _east;
 	// Begin of Unit _group_east_5_unit_1
 	if (true) then
 	{
-		_group_east_5_unit_1 = _group_east_5 createUnit ["O_sniper_F", [8383.7842, 7611.3223, 17], [], 0, "CAN_COLLIDE"];
+		_group_east_5_unit_1 = _group_east_5 createUnit ["O_sniper_F", [8383.7842, 7611.3223, 18], [], 0, "CAN_COLLIDE"];
 		_group_east_5_unit_1 setDir 517.76202;
 		_group_east_5_unit_1 setUnitAbility 0.60000002;
 		_group_east_5_unit_1 setRank "CORPORAL";
@@ -296,7 +296,7 @@ _group_east_5 = createGroup _east;
 	// Begin of Unit _group_east_5_unit_2
 	if (true) then
 	{
-		_group_east_5_unit_2 = _group_east_5 createUnit ["O_spotter_F", [8383.3408, 7611.0352, 17], [], 0, "CAN_COLLIDE"];
+		_group_east_5_unit_2 = _group_east_5 createUnit ["O_spotter_F", [8383.3408, 7611.0352, 18], [], 0, "CAN_COLLIDE"];
 		_group_east_5_unit_2 setDir 517.76202;
 		_group_east_5_unit_2 setUnitAbility 0.60000002;
 		_group_east_5_unit_2 setRank "CORPORAL";
@@ -1210,8 +1210,8 @@ _group_east_28 = createGroup _east;
 	// Begin of Unit _group_east_28_unit_1
 	if (true) then
 	{
-		_group_east_28_unit_1 = _group_east_28 createUnit ["O_sniper_F", [4660.0078, 11960.438, 17], [], 0, "CAN_COLLIDE"];
-		_group_east_28_unit_1 setDir 518.69727;
+		_group_east_28_unit_1 = _group_east_28 createUnit ["O_sniper_F", [4660.0078, 11960.438, 18], [], 0, "CAN_COLLIDE"];
+		_group_east_28_unit_1 setDir 518.69702;
 		_group_east_28_unit_1 setUnitAbility 0.60000002;
 		_group_east_28_unit_1 setRank "CORPORAL";
 		_group_east_28 selectLeader _group_east_28_unit_1;
@@ -1220,8 +1220,8 @@ _group_east_28 = createGroup _east;
 	// Begin of Unit _group_east_28_unit_2
 	if (true) then
 	{
-		_group_east_28_unit_2 = _group_east_28 createUnit ["O_spotter_F", [4659.3159, 11960.132, 17], [], 0, "CAN_COLLIDE"];
-		_group_east_28_unit_2 setDir 518.69727;
+		_group_east_28_unit_2 = _group_east_28 createUnit ["O_spotter_F", [4659.3159, 11960.132, 18], [], 0, "CAN_COLLIDE"];
+		_group_east_28_unit_2 setDir 518.69702;
 		_group_east_28_unit_2 setUnitAbility 0.60000002;
 		_group_east_28_unit_2 setRank "CORPORAL";
 	};
@@ -1233,8 +1233,8 @@ _group_east_29 = createGroup _east;
 	// Begin of Unit _group_east_29_unit_1
 	if (true) then
 	{
-		_group_east_29_unit_1 = _group_east_29 createUnit ["O_sniper_F", [4720.6396, 11991.06, 17], [], 0, "CAN_COLLIDE"];
-		_group_east_29_unit_1 setDir 411.64484;
+		_group_east_29_unit_1 = _group_east_29 createUnit ["O_sniper_F", [4720.6396, 11991.06, 18], [], 0, "CAN_COLLIDE"];
+		_group_east_29_unit_1 setDir 411.64499;
 		_group_east_29_unit_1 setUnitAbility 0.60000002;
 		_group_east_29_unit_1 setRank "CORPORAL";
 		_group_east_29 selectLeader _group_east_29_unit_1;
@@ -1243,8 +1243,8 @@ _group_east_29 = createGroup _east;
 	// Begin of Unit _group_east_29_unit_2
 	if (true) then
 	{
-		_group_east_29_unit_2 = _group_east_29 createUnit ["O_spotter_F", [4721.1216, 11990.495, 17], [], 0, "CAN_COLLIDE"];
-		_group_east_29_unit_2 setDir 411.64484;
+		_group_east_29_unit_2 = _group_east_29 createUnit ["O_spotter_F", [4721.1216, 11990.495, 18], [], 0, "CAN_COLLIDE"];
+		_group_east_29_unit_2 setDir 411.64499;
 		_group_east_29_unit_2 setUnitAbility 0.60000002;
 		_group_east_29_unit_2 setRank "CORPORAL";
 	};
@@ -1256,8 +1256,8 @@ _group_east_30 = createGroup _east;
 	// Begin of Unit _group_east_30_unit_1
 	if (true) then
 	{
-		_group_east_30_unit_1 = _group_east_30 createUnit ["O_sniper_F", [4772.8936, 11811.563, 17], [], 0, "CAN_COLLIDE"];
-		_group_east_30_unit_1 setDir 503.04868;
+		_group_east_30_unit_1 = _group_east_30 createUnit ["O_sniper_F", [4772.8936, 11811.563, 18], [], 0, "CAN_COLLIDE"];
+		_group_east_30_unit_1 setDir 503.04901;
 		_group_east_30_unit_1 setUnitAbility 0.60000002;
 		_group_east_30_unit_1 setRank "CORPORAL";
 		_group_east_30 selectLeader _group_east_30_unit_1;
@@ -1266,8 +1266,8 @@ _group_east_30 = createGroup _east;
 	// Begin of Unit _group_east_30_unit_2
 	if (true) then
 	{
-		_group_east_30_unit_2 = _group_east_30 createUnit ["O_spotter_F", [4772.3086, 11811.066, 17], [], 0, "CAN_COLLIDE"];
-		_group_east_30_unit_2 setDir 503.04868;
+		_group_east_30_unit_2 = _group_east_30 createUnit ["O_spotter_F", [4772.3086, 11811.066, 18], [], 0, "CAN_COLLIDE"];
+		_group_east_30_unit_2 setDir 503.04901;
 		_group_east_30_unit_2 setUnitAbility 0.60000002;
 		_group_east_30_unit_2 setRank "CORPORAL";
 	};
@@ -1279,8 +1279,8 @@ _group_east_31 = createGroup _east;
 	// Begin of Unit _group_east_31_unit_1
 	if (true) then
 	{
-		_group_east_31_unit_1 = _group_east_31 createUnit ["O_sniper_F", [4705.1313, 11801.764, 17], [], 0, "CAN_COLLIDE"];
-		_group_east_31_unit_1 setDir 591.9895;
+		_group_east_31_unit_1 = _group_east_31 createUnit ["O_sniper_F", [4705.1313, 11801.764, 18], [], 0, "CAN_COLLIDE"];
+		_group_east_31_unit_1 setDir 591.98999;
 		_group_east_31_unit_1 setUnitAbility 0.60000002;
 		_group_east_31_unit_1 setRank "CORPORAL";
 		_group_east_31 selectLeader _group_east_31_unit_1;
@@ -1289,8 +1289,8 @@ _group_east_31 = createGroup _east;
 	// Begin of Unit _group_east_31_unit_2
 	if (true) then
 	{
-		_group_east_31_unit_2 = _group_east_31 createUnit ["O_spotter_F", [4704.6567, 11802.322, 17], [], 0, "CAN_COLLIDE"];
-		_group_east_31_unit_2 setDir 591.9895;
+		_group_east_31_unit_2 = _group_east_31 createUnit ["O_spotter_F", [4704.6567, 11802.322, 18], [], 0, "CAN_COLLIDE"];
+		_group_east_31_unit_2 setDir 591.98999;
 		_group_east_31_unit_2 setUnitAbility 0.60000002;
 		_group_east_31_unit_2 setRank "CORPORAL";
 	};
@@ -1302,7 +1302,7 @@ _group_east_32 = createGroup _east;
 	// Begin of Unit _group_east_32_unit_1
 	if (true) then
 	{
-		_group_east_32_unit_1 = _group_east_32 createUnit ["O_sniper_F", [4697.3325, 11704.12, 25], [], 0, "CAN_COLLIDE"];
+		_group_east_32_unit_1 = _group_east_32 createUnit ["O_sniper_F", [4697.3325, 11704.12, 30], [], 0, "CAN_COLLIDE"];
 		_group_east_32_unit_1 setDir 341.13101;
 		_group_east_32_unit_1 setUnitAbility 0.60000002;
 		_group_east_32_unit_1 setRank "CORPORAL";
@@ -1312,7 +1312,7 @@ _group_east_32 = createGroup _east;
 	// Begin of Unit _group_east_32_unit_2
 	if (true) then
 	{
-		_group_east_32_unit_2 = _group_east_32 createUnit ["O_spotter_F", [4698.0215, 11704.385, 25], [], 0, "CAN_COLLIDE"];
+		_group_east_32_unit_2 = _group_east_32 createUnit ["O_spotter_F", [4698.0215, 11704.385, 30], [], 0, "CAN_COLLIDE"];
 		_group_east_32_unit_2 setDir 341.13101;
 		_group_east_32_unit_2 setUnitAbility 0.60000002;
 		_group_east_32_unit_2 setRank "CORPORAL";
